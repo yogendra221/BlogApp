@@ -1,5 +1,5 @@
 # BlogApp
-<p><strong>RESTful Blog App</strong> is a web application developed with best applications of RESTful Routing using Node.JS, Express.JS, Embedded JavaScript (EJS) and more.</p>
+<p><strong>Blog App</strong> is a Full Stack web application developed with best applications of RESTful Routing using Node.JS, Express.JS, Embedded JavaScript (EJS) and more.</p>
 <h3>RESTful Routes:</h3>
 <table>
 <thead>
